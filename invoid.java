@@ -20,9 +20,6 @@ public class invoid {
         System.out.print("TOTAL: $");
         System.out.println(totalPrice);
 
-        System.out.print("GST: $");
-        System.out.println(gst);
-
         double gst = totalPrice * 0.10;
         System.out.print("GST: $");
         System.out.println(gst);
