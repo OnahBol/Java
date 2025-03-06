@@ -23,8 +23,8 @@ public class doubletype {
 
     System.out.println(num1 + " + " + num2 + " = " + atotal);
     System.out.println(num1 + " - " + num2 + " = " + stotal);
-    System.out.println(num1 + " X " + num2 + " = " + mtotal);
-    System.out.println(num1 + " ➗ " + num2 + " = " + dtotal);
+    System.out.println(num1 + " x " + num2 + " = " + mtotal);
+    System.out.println(num1 + " / " + num2 + " = " + dtotal);
 
 
     myInput.close();
