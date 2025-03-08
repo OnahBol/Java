@@ -28,6 +28,7 @@ public class sizes {
         }
         System.out.println ("The size of the egg is: " + size);
 
+        myInput.close();
 
     } 
 }
